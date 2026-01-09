@@ -114,5 +114,7 @@ dependencies {
     // Preferences DataStore (This contains the Context extension functions)
     implementation("androidx.datastore:datastore-preferences:1.2.0")
 
-    
+    implementation("androidx.compose.material:material-icons-extended")
+
+
 }
