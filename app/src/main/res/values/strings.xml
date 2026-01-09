@@ -6,4 +6,5 @@
     <string name="error_non_retryable_server">error non retryable server</string>
     <string name="error_unauthorized_access">error unauthorized access</string>
     <string name="error_not_found">error not found</string>
+    <string name="value_type_is_not_supported">value type is not supported</string>
 </resources>
